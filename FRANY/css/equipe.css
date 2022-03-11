@@ -1,0 +1,73 @@
+body{
+    background: rgb(217, 235, 245)
+}
+section{
+    margin-top: 60px;
+}
+
+.nav  li{
+    float: left;
+    margin: 60px;
+    background-color: #23a538;
+    padding: 5px;
+    
+}
+.nav li:hover{
+    box-shadow: 5px 3px 5px;
+    border-radius: 10px;
+}
+.nav li a {
+    color: white;
+    font-size: 27px;
+}
+.spe h2{
+    font-size: 45px;
+    width: 300px;
+    background-color:#f4930aa1;
+    margin-bottom: 0;
+}
+
+.specia h2{
+    background-color:#f4930a;
+    display: inline;
+    font-size: 27px;
+    color: white;
+    padding: 3px;
+    margin: 200px;
+    margin-top: 0;
+    box-shadow: 1px 4px 6px #0068b2;
+}
+.for-center{
+    text-align: center;
+}
+.paragraphe p{
+    width: 500px;
+    margin-left: 240px;
+    font-size: 20px;
+    line-height: 50px;
+}
+.img{
+    width: 450px;
+    margin-top: 28px;
+    margin-left: 15px;
+}
+.paragraphe{
+display: flex;
+border-top: 2px solid #0068b29d;
+
+}
+.specia p{
+    margin-left: 240px;
+    font-size: 20px;
+}
+section{
+    border-bottom: 2px #0068b2;
+    margin-bottom: 3px;
+}
+.s3 a{
+    text-decoration: none;
+    background-color: #23a53994;
+    border: 2px #0068b2 solid;
+    border-radius: 10px;
+    padding: 5px;
+}

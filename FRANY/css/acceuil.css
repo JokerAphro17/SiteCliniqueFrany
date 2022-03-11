@@ -1,0 +1,99 @@
+body{
+    background: rgb(217, 235, 245)
+}
+main{
+    position: relative;
+}
+ 
+.t1{
+    position: relative;
+    color:#23a539ce;
+    text-shadow: 1px 2px 2px black;
+    margin-bottom: 30px;
+    z-index: 1;
+    margin-top: 30px;
+    text-align: center;
+    display: block;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.big-boite{
+    margin-left: 0;
+    display: flex;
+}
+
+.boite{
+    background-color: #0068b2b4;
+    height: 320px;
+    width: 900px;
+    display: block;
+    margin-left: 54px;
+    right: 0;
+
+}
+.b{
+    width: 200px;
+    height: 130px;
+    margin: 10px;
+}
+.block{
+    display: flex;
+}
+.b1{
+    background-image: url("../images/medecineG.jpg");
+}
+.b2{
+    background-image: url("../images/labo.png");
+}
+.b3{
+    background: url("../images/dentaire.jpg");
+}
+.b4{
+    background: url("../images/gyne.jpg");
+}
+.b5{
+    background: url("../images/pediatrie.jpg");
+}
+
+.b6{
+    background: url("../images/Hnet.com-image\(1\).jpg");
+}
+.b7{
+    background: url("../images/res.jpg");
+    background-size: cover;
+}
+.b8{
+    background: url("../images/doc.webp");
+    background-size: cover;
+}
+.cover{
+    background: url(../images/coté.webp);
+    background-size: cover;
+    margin-left: 46px;
+}
+body{
+    background: url("../images/cover.jpeg");
+}
+button{
+    background-color: #23a539ce;
+    position: relative;
+    top:100px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 17px;
+    cursor: pointer;
+}
+.b{
+    text-align: center;
+}
+button:hover {
+    padding: ;
+    background-color: rgba(53, 147, 255, 0.924);
+}
+.b:hover{
+    transform: scale(1.2); 
+    border: inset;
+    border:  2px solid black;
+
+}
